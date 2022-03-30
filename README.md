@@ -25,6 +25,6 @@
 </p>
 
 
-### [<p align="center">🔗 Page Link </p>](#)
+### [<p align="center">🔗 Page Link </p>](https://somyaranjansahu.github.io/Tetris-Game/)
 
 <h3 align="center"> Show ❤️ by Starring this Repo </h3>
