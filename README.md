@@ -24,6 +24,6 @@
 <img src="https://i.postimg.cc/3NnKf6kh/ss2.png" /> 
 </p>
 
-### [<p align="center">🔗 Page Link </p>](https://somyaranjansahu.github.io/Tetris-Game/)
+### [<p align="center">🔗 Game Link </p>](https://somyaranjansahu.github.io/Tetris-Game/)
 
 <h3 align="center"> Show ❤️ by Starring this Repo </h3>
